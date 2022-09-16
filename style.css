@@ -51,7 +51,7 @@ body{
     justify-content: space-around;
 }
 
-.preloader{
+#preloader{
     background: #000 url(images/preloader/eight.gif) no-repeat center center;
     width: 100%;
     position: fixed;

@@ -1,6 +1,6 @@
     'use strict'
 
-        var LOADER=document.querySelector('.preloader');
+        var LOADER=document.getElementById('preloader');
         
         window.addEventListener('load',()=>{
                 LOADER.classList.add('vanish');
